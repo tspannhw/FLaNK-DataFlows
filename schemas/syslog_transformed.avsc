@@ -1,0 +1,36 @@
+{
+  "name": "syslog_transformed",
+  "type": "record",
+  "namespace": "com.cloudera",
+  "fields": [
+    { "name": "priority", "type": "int" },
+    { "name": "severity", "type": "int" },
+    { "name": "facility", "type": "int" },
+    { "name": "version", "type": "int" },
+    { "name": "event_timestamp", "type": "long" },
+    { "name": "hostname", "type": "string" },
+    { "name": "body", "type": "string" },
+    { "name": "appname", "type": "string" },
+    { "name": "procid", "type": "string" },
+    { "name": "messageid", "type": "string" },
+    { "name": "structureddata",
+      "type": {
+        "name": "structuredData",
+        "type": "record",
+        "fields": [
+          { "name": "sdid",
+            "type": {
+              "name": "sdid",
+              "type": "record",
+              "fields": [
+                { "name": "eventid", "type": "string" },
+                { "name": "eventsource", "type": "string" },
+                { "name": "iut", "type": "string" }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
