@@ -39,4 +39,21 @@ Flink, NiFi, Kafka
 A powerful streaming stack
 For all your needs.
 
+Flank stack aligned,
+Flink, NiFi, Kafka in line,
+Data flows divine.
+
+The flank stack flows.
+Data is processed quickly.
+It's a great choice.
+
+
+Apache Flink, NiFi, Kafka
+A powerful streaming stack
+For big data processing
+
+The data flows fast
+Flink, NiFi, and Kafka in sync
+A powerful stack
+
 ````
