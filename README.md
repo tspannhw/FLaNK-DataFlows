@@ -4,6 +4,8 @@ DataFlows
 
 https://docs.cloudera.com/dataflow/cloud/inbound-connections-clients/topics/cdf-inbound-connections-minifi-nifi-tutorial.html
 
+![nifi](https://raw.githubusercontent.com/tspannhw/FLiPStackWeekly/main/images/allnififlows.jpg)
+
 ### Thanks to Bard and ChatGPT for Haikus
 
 ````
