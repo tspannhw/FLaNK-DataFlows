@@ -59,3 +59,9 @@ Flink, NiFi, and Kafka in sync
 A powerful stack
 
 ````
+
+
+&copy; 2023
+
+
+https://www.cloudera.com/legal/commercial-terms-and-conditions/cdp-public-cloud-trial-agreement.html
