@@ -1,0 +1,16 @@
+{
+  "type": "record",
+  "name": "inferredSchema",
+  "fields": [
+    {
+      "name": "sensor_id",
+      "type": "long",
+      "doc": "Type inferred from '903'"
+    },
+    {
+      "name": "timestamp_of_production",
+      "type": "string",
+      "doc": "Type inferred from '\"2023-04-20 21:51:34.658\"'"
+    }
+  ]
+}
