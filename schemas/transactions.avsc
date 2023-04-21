@@ -1,0 +1,31 @@
+{
+  "type": "record",
+  "name": "inferredSchema",
+  "fields": [
+    {
+      "name": "sender_id",
+      "type": "long",
+      "doc": "Type inferred from '68294'"
+    },
+    {
+      "name": "receiver_id",
+      "type": "long",
+      "doc": "Type inferred from '46232'"
+    },
+    {
+      "name": "amount",
+      "type": "long",
+      "doc": "Type inferred from '4661'"
+    },
+    {
+      "name": "execution_date",
+      "type": "string",
+      "doc": "Type inferred from '\"2023-04-20 21:41:30.174\"'"
+    },
+    {
+      "name": "currency",
+      "type": "string",
+      "doc": "Type inferred from '\"SDG\"'"
+    }
+  ]
+}
