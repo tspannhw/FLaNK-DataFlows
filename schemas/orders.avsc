@@ -1,0 +1,36 @@
+{
+ "type": "record",
+ "name": "inferredSchema",
+ "fields": [
+  {
+   "name": "order_id",
+   "type": "long",
+   "doc": "Type inferred from '1941426'"
+  },
+  {
+   "name": "city",
+   "type": "string",
+   "doc": "Type inferred from '\"East Jakestad\"'"
+  },
+  {
+   "name": "street_address",
+   "type": "string",
+   "doc": "Type inferred from '\"9213 Mitchell Viaduct\"'"
+  },
+  {
+   "name": "amount",
+   "type": "long",
+   "doc": "Type inferred from '14'"
+  },
+  {
+   "name": "order_time",
+   "type": "string",
+   "doc": "Type inferred from '\"2023-04-20 21:33:02.226\"'"
+  },
+  {
+   "name": "order_status",
+   "type": "string",
+   "doc": "Type inferred from '\"DELIVERED\"'"
+  }
+ ]
+}
