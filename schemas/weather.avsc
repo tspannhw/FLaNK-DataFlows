@@ -1,0 +1,21 @@
+{
+  "type": "record",
+  "name": "inferredSchema",
+  "fields": [
+    {
+      "name": "city",
+      "type": "string",
+      "doc": "Type inferred from '\"East Crissy\"'"
+    },
+    {
+      "name": "temp_c",
+      "type": "long",
+      "doc": "Type inferred from '-74'"
+    },
+    {
+      "name": "description",
+      "type": "string",
+      "doc": "Type inferred from '\"Mostly cloudy\"'"
+    }
+  ]
+}
