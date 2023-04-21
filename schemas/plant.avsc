@@ -1,0 +1,31 @@
+{
+  "type": "record",
+  "name": "inferredSchema",
+  "fields": [
+    {
+      "name": "plant_id",
+      "type": "long",
+      "doc": "Type inferred from '895'"
+    },
+    {
+      "name": "city",
+      "type": "string",
+      "doc": "Type inferred from '\"Rolfsonshire\"'"
+    },
+    {
+      "name": "lat",
+      "type": "string",
+      "doc": "Type inferred from '\"-88.804515\"'"
+    },
+    {
+      "name": "lon",
+      "type": "string",
+      "doc": "Type inferred from '\"46.418342\"'"
+    },
+    {
+      "name": "country",
+      "type": "string",
+      "doc": "Type inferred from '\"Djibouti\"'"
+    }
+  ]
+}
