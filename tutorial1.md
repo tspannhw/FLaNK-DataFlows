@@ -1,7 +1,18 @@
 # Best in Flow Competition Tutorials
-### Author: Michael Kohs  George Vetticaden Timothy Spann, Pierre Villard
+### Author: Michael Kohs,  George Vetticaden, Timothy Spann, Pierre Villard
 ### Date: 04/18/2023
 ### Last Updated: 4/28/2023
+
+### Quick Resource Links
+
+* https://www.cloudera.com/solutions/dim-developer.html 
+* https://community.cloudera.com/t5/Community-Articles/DataFlow-Designer-Event/ta-p/368947
+* https://www.datainmotion.dev/2023/04/dataflow-processors.html
+* https://github.com/tspannhw/FLaNK-TravelAdvisory
+* https://github.com/tspannhw/FLaNK-AllTheStreams 
+* http://Bestinflow.slack.com 
+* https://attend.cloudera.com/nificommitters0503
+* https://docs.google.com/forms/d/1Ku2KSDFoxJy45jiOWuLRDi9Trpgm-42aaxeAVwy-fpo/
 
 
 ### Useful Data Assets
