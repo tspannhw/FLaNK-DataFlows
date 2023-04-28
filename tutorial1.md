@@ -1,5 +1,5 @@
 # Best in Flow Competition Tutorials
-### Author: Michael Kohs  George Vetticaden Timothy Spann
+### Author: Michael Kohs  George Vetticaden Timothy Spann, Pierre Villard
 ### Date: 04/18/2023
 ### Last Updated: 4/28/2023
 
@@ -11,6 +11,7 @@
 * Use Case walkthrough	
 * 1. Reading and filtering a stream of syslog data	
 * 2. Writing critical syslog events to Apache Iceberg for analysis	
+
 
 ### Use Case Walkthrough for Competition
 
@@ -64,3 +65,15 @@ SELECT * FROM FLOWFILE WHERE severity <= 2
 
 
 If your Workload Password does not say currently set or you forgot it, follow the steps below to reset it.   Your userid is shown above at Workload User Name.
+
+
+
+
+
+
+#### References
+
+* https://pierrevillard.com/author/pvillard31/
+* https://www.datainmotion.dev/
+* https://www.flankstack.dev/
+* http://flipstackweekly.com/
