@@ -13,6 +13,14 @@
 * http://Bestinflow.slack.com 
 * https://attend.cloudera.com/nificommitters0503
 * https://docs.google.com/forms/d/1Ku2KSDFoxJy45jiOWuLRDi9Trpgm-42aaxeAVwy-fpo/
+* https://blog.cloudera.com/cloudera-dataflow-designer-the-key-to-agile-data-pipeline-development/
+* https://www.linkedin.com/pulse/streaming-data-ingestion-open-lakehouse-made-easy-vetticaden/
+* https://www.linkedin.com/pulse/streaming-data-ingestion-open-lakehouse-made-easy-vetticaden/
+* https://www.youtube.com/watch?v=z-Nj7Xm13bI
+* https://www.youtube.com/watch?v=p9-Y1PRYDn4&t=2s
+* https://blog.cloudera.com/serverless-nifi-flows-with-dataflow-functions-the-next-step-in-the-dataflow-service-evolution/
+* https://players.brightcove.net/6082840760001/default_default/index.html?videoId=6312274894112
+* https://docs.cloudera.com/dataflow/cloud/overview/topics/cdf-key-features.html
 
 
 ### Useful Data Assets
