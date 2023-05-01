@@ -17,6 +17,13 @@ https://docs.cloudera.com/dataflow/cloud/inbound-connections-clients/topics/cdf-
 
 ![nifi](https://raw.githubusercontent.com/tspannhw/FLiPStackWeekly/main/images/allnififlows.jpg)
 
+
+### Examples
+
+* https://github.com/tspannhw/FLaNK-TravelAdvisory
+
+
+
 ### Thanks to Bard and ChatGPT for Haikus
 
 ````
