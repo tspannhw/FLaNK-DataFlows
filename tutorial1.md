@@ -1,7 +1,7 @@
 # Best in Flow Competition Tutorials
-### Author: Michael Kohs,  George Vetticaden, Timothy Spann, Pierre Villard
+### Author: Michael Kohs,  George Vetticaden,  Timothy Spann,  Pierre Villard,  John Kuchmek,  Richard Cloudera SE Team
 ### Date: 04/18/2023
-### Last Updated: 4/28/2023
+### Last Updated: 5/03/2023
 
 ### Quick Resource Links
 
