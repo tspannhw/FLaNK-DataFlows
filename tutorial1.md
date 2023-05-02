@@ -331,7 +331,7 @@ Navigate to Flow Options → Services
 Select CDP_Schema_Registry service and click Enable Service and Referencing Components action.   If this is not enabled, it may be an error or an extra space in any of the parameters for example AVRO must not have a new line or blank spaces.   The first thing to try if you have an issue is to stop the Design environment and then restart the test session.  Check the Tips guide for more help or contact us in the bestinflow.slack.com.
  
 Start from the top of the list and enable all remaining Controller services
-Make sure all services have been enabled.   You may need to reload the page or try it in a new tab.
+Make sure all services have been enabled.   You may need to reload the page.
 
 
 If your processors have all started because you started your controller services, it is best to stop them all by right clicking on each one and clicking ‘Stop’ and then start them one at a time so you can follow the process easier.  Start the ConsumeFromKafka processor using the right click action menu or the Start button in the configuration drawer.
