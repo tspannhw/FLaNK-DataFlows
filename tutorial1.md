@@ -130,8 +130,8 @@ Click the button Set Workload Password.
 
 
 
-
-Check that you got the message - Workload password is currently set or alternatively, look for a message next to Workload Password which says (Workload password is currently set). Save the password you configured as well as the workload user name for use later. 
+Check that you got the message - Workload password is currently set or alternatively, look for a message next to Workload Password which says (Workload password is currently set). 
+Save the password you configured as well as the workload user name for use later. 
 
 
 
