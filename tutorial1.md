@@ -108,14 +108,19 @@ Click on your name at the bottom left corner of the screen for a menu to pop up.
 Click on Profile to be redirected to your user’s profile page with important information.
 
 
-
+![1](images/image93.png)
 
 If your Workload Password does not say currently set or you forgot it, follow the steps below to reset it.   Your userid is shown above at Workload User Name.
 
-Setting Workload Password
+![1](images/image50.png)
+
+**Setting Workload Password**
+
 You will need to define your workload password that will be used to access non-SSO interfaces. You may read more about it here. Please keep it with you. If you have forgotten it, you will be able to repeat this process and define another one.
 From the Home Page, click on your User Name (Ex: tim) at the lower left corner.
 Click on the Profile option.
+
+![1](images/image80.png)
 
 Click option Set Workload Password.
 Enter a suitable Password and Confirm Password.
