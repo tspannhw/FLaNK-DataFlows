@@ -41,6 +41,9 @@
 * https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/Best%20Practices%20For%20Workflow.pdf
 * https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/Cloudera%20Sandbox%20Event%20Guidelines%20For%20Workflow.pdf
 * https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/Meet%20the%20Committers%20Webinar_%20Lab%20Preparation.pdf
+* https://www.slideshare.net/bunkertor/best-practices-for-workflow
+* https://www.slideshare.net/bunkertor/meet-the-committers-webinar-lab-preparation
+* https://www.slideshare.net/bunkertor/cloudera-sandbox-event-guidelines-for-workflow
 
 
 ### Useful Data Assets
