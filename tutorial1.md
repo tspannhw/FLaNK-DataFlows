@@ -1,7 +1,7 @@
 # Best in Flow Competition Tutorials
 ### Author: Michael Kohs,  George Vetticaden,  Timothy Spann,  Pierre Villard,  John Kuchmek,  Richard Cloudera SE Team
 ### Date: 04/18/2023
-### Last Updated: 5/01/2023
+### Last Updated: 5/02/2023
 
 ### Quick Resource Links
 
@@ -15,12 +15,14 @@
 * https://docs.google.com/forms/d/1Ku2KSDFoxJy45jiOWuLRDi9Trpgm-42aaxeAVwy-fpo/
 * https://blog.cloudera.com/cloudera-dataflow-designer-the-key-to-agile-data-pipeline-development/
 * https://www.linkedin.com/pulse/streaming-data-ingestion-open-lakehouse-made-easy-vetticaden/
-* https://www.linkedin.com/pulse/streaming-data-ingestion-open-lakehouse-made-easy-vetticaden/
 * https://www.youtube.com/watch?v=z-Nj7Xm13bI
 * https://www.youtube.com/watch?v=p9-Y1PRYDn4&t=2s
 * https://blog.cloudera.com/serverless-nifi-flows-with-dataflow-functions-the-next-step-in-the-dataflow-service-evolution/
 * https://players.brightcove.net/6082840760001/default_default/index.html?videoId=6312274894112
 * https://docs.cloudera.com/dataflow/cloud/overview/topics/cdf-key-features.html
+* https://www.slideshare.net/bunkertor/best-practices-for-workflow
+* https://www.slideshare.net/bunkertor/meet-the-committers-webinar-lab-preparation
+* https://www.slideshare.net/bunkertor/cloudera-sandbox-event-guidelines-for-workflow
 
 
 ### Useful Data Assets
