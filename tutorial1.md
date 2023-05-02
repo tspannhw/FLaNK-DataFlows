@@ -3,6 +3,21 @@
 ### Date: 04/18/2023
 ### Last Updated: 5/02/2023
 
+### Other Formats
+
+* https://www.datainmotion.dev/2023/05/best-in-flow-competition-tutorials-part.html
+* https://www.datainmotion.dev/2023/05/best-in-flow-competition-tutorials-part_2.html
+* https://www.datainmotion.dev/2023/05/best-in-flow-competition-tutorials-part_43.html
+* https://www.datainmotion.dev/2023/05/best-in-flow-competition-tutorials-part_45.html
+* https://github.com/tspannhw/FLaNK-DataFlows/tree/main/tutorials
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/BestInFlowCompetitionTutorials.epub
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/BestInFlowCompetitionTutorials.docx
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/BestInFlowCompetitionTutorials.zip
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/Cloud%20Tools%20Guidance.epub
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/Cloud%20Tools%20Guidance.pdf
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/Cloud%20Tools%20Guidance.zip
+
+
 ### Quick Resource Links
 
 * https://www.cloudera.com/solutions/dim-developer.html 
@@ -23,6 +38,9 @@
 * https://www.slideshare.net/bunkertor/best-practices-for-workflow
 * https://www.slideshare.net/bunkertor/meet-the-committers-webinar-lab-preparation
 * https://www.slideshare.net/bunkertor/cloudera-sandbox-event-guidelines-for-workflow
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/Best%20Practices%20For%20Workflow.pdf
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/Cloudera%20Sandbox%20Event%20Guidelines%20For%20Workflow.pdf
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/Meet%20the%20Committers%20Webinar_%20Lab%20Preparation.pdf
 
 
 ### Useful Data Assets
