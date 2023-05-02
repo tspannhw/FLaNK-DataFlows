@@ -1,8 +1,11 @@
 # Tutorials
 
-https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/README.MD
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/README.MD
 
-https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorial1.md
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorial1.md
+
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/cloudtoolsguidance.md
+
 
 # Google Form to Submit Your Flow
 
@@ -10,10 +13,54 @@ https://docs.google.com/forms/d/1Ku2KSDFoxJy45jiOWuLRDi9Trpgm-42aaxeAVwy-fpo/edi
 
 # FLaNK-DataFlows
 
+
 DataFlows
 
 
-https://docs.cloudera.com/dataflow/cloud/inbound-connections-clients/topics/cdf-inbound-connections-minifi-nifi-tutorial.html
+* https://docs.cloudera.com/dataflow/cloud/inbound-connections-clients/topics/cdf-inbound-connections-minifi-nifi-tutorial.html
+
+
+### Other Formats
+
+* https://www.datainmotion.dev/2023/05/best-in-flow-competition-tutorials-part.html
+* https://www.datainmotion.dev/2023/05/best-in-flow-competition-tutorials-part_2.html
+* https://www.datainmotion.dev/2023/05/best-in-flow-competition-tutorials-part_43.html
+* https://www.datainmotion.dev/2023/05/best-in-flow-competition-tutorials-part_45.html
+* https://github.com/tspannhw/FLaNK-DataFlows/tree/main/tutorials
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/BestInFlowCompetitionTutorials.epub
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/BestInFlowCompetitionTutorials.docx
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/BestInFlowCompetitionTutorials.zip
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/Cloud%20Tools%20Guidance.epub
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/Cloud%20Tools%20Guidance.pdf
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/Cloud%20Tools%20Guidance.zip
+
+
+### Quick Resource Links
+
+* https://www.cloudera.com/solutions/dim-developer.html 
+* https://community.cloudera.com/t5/Community-Articles/DataFlow-Designer-Event/ta-p/368947
+* https://www.datainmotion.dev/2023/04/dataflow-processors.html
+* https://github.com/tspannhw/FLaNK-TravelAdvisory
+* https://github.com/tspannhw/FLaNK-AllTheStreams 
+* http://Bestinflow.slack.com 
+* https://attend.cloudera.com/nificommitters0503
+* https://docs.google.com/forms/d/1Ku2KSDFoxJy45jiOWuLRDi9Trpgm-42aaxeAVwy-fpo/
+* https://blog.cloudera.com/cloudera-dataflow-designer-the-key-to-agile-data-pipeline-development/
+* https://www.linkedin.com/pulse/streaming-data-ingestion-open-lakehouse-made-easy-vetticaden/
+* https://www.youtube.com/watch?v=z-Nj7Xm13bI
+* https://www.youtube.com/watch?v=p9-Y1PRYDn4&t=2s
+* https://blog.cloudera.com/serverless-nifi-flows-with-dataflow-functions-the-next-step-in-the-dataflow-service-evolution/
+* https://players.brightcove.net/6082840760001/default_default/index.html?videoId=6312274894112
+* https://docs.cloudera.com/dataflow/cloud/overview/topics/cdf-key-features.html
+* https://www.slideshare.net/bunkertor/best-practices-for-workflow
+* https://www.slideshare.net/bunkertor/meet-the-committers-webinar-lab-preparation
+* https://www.slideshare.net/bunkertor/cloudera-sandbox-event-guidelines-for-workflow
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/Best%20Practices%20For%20Workflow.pdf
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/Cloudera%20Sandbox%20Event%20Guidelines%20For%20Workflow.pdf
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/Meet%20the%20Committers%20Webinar_%20Lab%20Preparation.pdf
+* https://www.slideshare.net/bunkertor/best-practices-for-workflow
+* https://www.slideshare.net/bunkertor/meet-the-committers-webinar-lab-preparation
+* https://www.slideshare.net/bunkertor/cloudera-sandbox-event-guidelines-for-workflow
 
 ![nifi](https://raw.githubusercontent.com/tspannhw/FLiPStackWeekly/main/images/allnififlows.jpg)
 
