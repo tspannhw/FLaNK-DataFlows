@@ -1,7 +1,7 @@
 # Best in Flow Competition Tutorials
 ### Author: Michael Kohs,  George Vetticaden,  Timothy Spann,  Pierre Villard,  John Kuchmek,  Richard Cloudera SE Team
 ### Date: 04/18/2023
-### Last Updated: 5/03/2023
+### Last Updated: 5/01/2023
 
 ### Quick Resource Links
 
@@ -100,10 +100,9 @@ The following keys are needed if you want to deploy a DataFlow Function that you
 ####  Your Workflow User Name and Password
 
 
-Your Workflow User Name and Password
-
 Click on your name at the bottom left corner of the screen for a menu to pop up.
 
+![1](images/image26.png)
 
 
 Click on Profile to be redirected to your user’s profile page with important information.
