@@ -128,7 +128,7 @@ Click option Set Workload Password.
 Enter a suitable Password and Confirm Password.
 Click the button Set Workload Password.
 
-
+![image28](images/image28.png)
 
 Check that you got the message - Workload password is currently set or alternatively, look for a message next to Workload Password which says (Workload password is currently set). 
 Save the password you configured as well as the workload user name for use later. 
@@ -149,7 +149,7 @@ Navigate to Data Hub Clusters from the Home Page
  
 Navigate to the oss-kafka-demo cluster
 
-
+images/image84.png
 
 Navigate to Streams Messaging Manager   
 
@@ -170,6 +170,8 @@ You are now in the Topic browser.
 
 Click Add New to build a new topic.
 
+images/image88.png
+
 Enter the name of your topic prefixed with your Workload User Name, ex:   <<replace_with_userid>>_syslog_critical.
 
 
@@ -179,7 +181,7 @@ After successfully creating a topic, close the tab that opened when navigating t
 
 Congratulations! You have built a new topic.   
 
-
+images/image78.png
 
 
 
@@ -188,7 +190,7 @@ Congratulations! You have built a new topic.
 
 After successfully creating a topic, close the tab that opened when navigating to Streams Messaging Manager
 
-
+images/image75.png
 
 
 
