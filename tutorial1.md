@@ -120,11 +120,13 @@ You will need to define your workload password that will be used to access non-S
 From the Home Page, click on your User Name (Ex: tim) at the lower left corner.
 Click on the Profile option.
 
-![image80](images/image80.png)
+![image80](images/image93.png)
 
 Click option Set Workload Password.
 Enter a suitable Password and Confirm Password.
 Click the button Set Workload Password.
+
+
 
 
 Check that you got the message - Workload password is currently set or alternatively, look for a message next to Workload Password which says (Workload password is currently set). Save the password you configured as well as the workload user name for use later. 
