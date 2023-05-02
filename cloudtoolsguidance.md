@@ -3,19 +3,30 @@ Author: Michael Kohs  George Vetticaden Timothy Spann
 Date: 04/19/2023
 Last Updated: 5/01/2023
 
-Notice
+### References:
+
+* https://www.datainmotion.dev/2023/05/cloud-tools-guidance-how-to-build-data.html
+* https://www.datainmotion.dev/2023/05/cloud-tools-guidance-how-to-build-data_2.html
+* https://www.datainmotion.dev/2023/05/cloud-tools-guidance-how-to-build-data_18.html
+* https://www.datainmotion.dev/2023/05/best-in-flow-competition-bring-your-own.html
+* https://www.datainmotion.dev/2023/05/best-in-flow-competition-streaming-data.html
+
+
+
+
+### Notice
 
 This document assumes that you have registered for an account, activated it and logged into the CDP Sandbox.   This is for authorized users only who have attended the webinar and have read the training materials.
 
 A short guide and references are listed here.
 
-THIS IS NOT FOR USE WITH THE FIRST TWO TUTORIALS.   THIS IS FOR BUILDING ASSETS FOR YOUR OWN NEW FLOWS.
+## THIS IS NOT FOR USE WITH THE FIRST TWO TUTORIALS.   THIS IS FOR BUILDING ASSETS FOR YOUR OWN NEW FLOWS.
 
-How To Build Data Assets
+### How To Build Data Assets
 
-1.1 Create a Kafka Topic
+#### 1.1 Create a Kafka Topic
 
-Navigate to Data Hub Clusters
+#### Navigate to Data Hub Clusters
 
 
 
