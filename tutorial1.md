@@ -3,6 +3,13 @@
 ### Date: 04/18/2023
 ### Last Updated: 5/02/2023
 
+### Quick Tips
+
+* After finishing services, you may need to refresh the Chrome browser or reload.
+* Only use Chrome
+* If you have any issues, close your browser and login again.
+
+
 ### Other Formats
 
 * https://www.datainmotion.dev/2023/05/best-in-flow-competition-tutorials-part.html
