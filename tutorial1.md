@@ -135,17 +135,17 @@ Save the password you configured as well as the workload user name for use later
 
 
 
-Create a Kafka Topic
+**Create a Kafka Topic**
 
 The tutorials require you to create an Apache Kafka topic to send your data to, this is how you can create that topic.   You will also need this information to create topics for any of your own custom applications for the competition.
 
 Navigate to Data Hub Clusters from the Home Page
 
 
-Info:   You can always navigate back to the home page by clicking the app switcher icon at the top left of your screen.
+**Info:   You can always navigate back to the home page by clicking the app switcher icon at the top left of your screen.**
 
 
-
+![image80](images/image16.png)
  
 Navigate to the oss-kafka-demo cluster
 
