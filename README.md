@@ -5,7 +5,32 @@
 
 # Google Form to Submit Your Flow
 
-https://docs.google.com/forms/d/1Ku2KSDFoxJy45jiOWuLRDi9Trpgm-42aaxeAVwy-fpo/edit
+* https://docs.google.com/forms/d/1Ku2KSDFoxJy45jiOWuLRDi9Trpgm-42aaxeAVwy-fpo/edit
+
+# Tutorials
+
+* https://github.com/tspannhw/FLaNK-DataFlows/tree/main/finaltutorials
+* https://github.com/tspannhw/FLaNK-TravelAdvisory/blob/main/steps.md
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/finaltutorials/BestInFlowCompetitionTutorials03May2023.pdf
+* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/finaltutorials/CloudToolGuidance03May2023.pdf 
+
+# Best in Flow Details
+
+* https://community.cloudera.com/t5/Community-Articles/Best-in-Flow-Event/ta-p/368947
+
+# Slack Invite
+
+https://bestinflow.slack.com/join/shared_invite/zt-1uj1ti8hc-8mnhmbr_AbOCD7f~A68P0w#/shared-invite/email
+
+# Developer Home Page
+
+https://www.cloudera.com/solutions/dim-developer.html 
+
+# List of Designer Processors
+
+https://www.datainmotion.dev/2023/04/dataflow-processors.html
+
+
 
 # FLaNK-DataFlows
 
