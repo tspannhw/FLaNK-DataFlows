@@ -953,10 +953,8 @@ First thing first, go into DataFlow Functions and download the binary for runnin
 
 
 
-
-
 This should download a binary with a name similar to:
-naaf-aws-lambda-1.0.0.2.3.7.0-100-bin.zip
+**naaf-aws-lambda-1.0.0.2.3.7.0-100-bin.zip**
 
 Once you have the binary, make sure, you also have:
 The CRN of the flow you published in the DataFlow Catalog
