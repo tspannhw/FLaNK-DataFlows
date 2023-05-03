@@ -1,10 +1,6 @@
 # Tutorials
 
-* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorials/README.MD
 
-* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/tutorial1.md
-
-* https://github.com/tspannhw/FLaNK-DataFlows/blob/main/cloudtoolsguidance.md
 
 
 # Google Form to Submit Your Flow
