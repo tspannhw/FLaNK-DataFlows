@@ -1,5 +1,12 @@
 ### Reading from Apache Iceberg Tables with Cloudera DataFlow
 
+Add a processor to your page to read, for example, ExecuteSQLRecord 1.20.0.2.3.8.1-1, and name it ExecuteSQLRecord Impala.  You can use any that use JDBC connections such as
+
+* ExecuteSQL
+* ExecuteSQLRecord
+* QueryDatabaseTable
+* QueryDatabaseTableRecord
+
 
 #### Processor Settings
 
@@ -14,6 +21,13 @@ SELECT * FROM  `default`.tim_syslog_critical_archive
 
 #### Services Settings
 
+First add a connection service for your processor.
+
+![add](https://raw.githubusercontent.com/tspannhw/FLaNK-DataFlows/main/jdbc/addservice.jpg)
+
+
+![service](https://raw.githubusercontent.com/tspannhw/FLaNK-DataFlows/main/jdbc/dbconnectionpool.jpg)
+
 * Service Name: DBCPConnectionPool Impala Iceberg
 
 * Database Connection URL:       
@@ -22,7 +36,11 @@ SELECT * FROM  `default`.tim_syslog_critical_archive
 jdbc:impala://oss-kudu-demo-gateway.oss-demo.qsm5-opic.cloudera.site:443/;ssl=1;transportMode=http;httpPath=oss-kudu-demo/cdp-proxy-api/impala;AuthMech=3;
 ````
 
-* Database Driver Class Name:    com.cloudera.impala.jdbc.Driver 
+* Database Driver Class Name:    
+
+````
+com.cloudera.impala.jdbc.Driver 
+````
 
 * Database Driver Location(s):   
 
