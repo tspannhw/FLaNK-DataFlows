@@ -3,5 +3,9 @@
 
 Settings
 
-* Query:    SELECT * FROM  `default`.tim_syslog_critical_archive
+Query
 
+````
+SELECT * FROM  `default`.tim_syslog_critical_archive
+
+````
