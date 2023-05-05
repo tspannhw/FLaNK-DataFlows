@@ -2,10 +2,17 @@
 
 Add a processor to your page to read, for example, ExecuteSQLRecord 1.20.0.2.3.8.1-1, and name it ExecuteSQLRecord Impala.  You can use any that use JDBC connections such as
 
+
+![add](https://raw.githubusercontent.com/tspannhw/FLaNK-DataFlows/main/jdbc/addprocessor.jpg)
+
+
 * ExecuteSQL
 * ExecuteSQLRecord
 * QueryDatabaseTable
 * QueryDatabaseTableRecord
+
+
+![example](https://raw.githubusercontent.com/tspannhw/FLaNK-DataFlows/main/jdbc/exampleflow.jpg)
 
 
 #### Processor Settings
@@ -25,6 +32,7 @@ First add a connection service for your processor.
 
 ![add](https://raw.githubusercontent.com/tspannhw/FLaNK-DataFlows/main/jdbc/addservice.jpg)
 
+Now you can add parameters to your service.
 
 ![service](https://raw.githubusercontent.com/tspannhw/FLaNK-DataFlows/main/jdbc/dbconnectionpool.jpg)
 
