@@ -1,9 +1,10 @@
 ### Reading from Apache Iceberg Tables with Cloudera DataFlow
 
+![example](https://raw.githubusercontent.com/tspannhw/FLaNK-DataFlows/main/jdbc/exampleflow.jpg)
+
+
+
 Add a processor to your page to read, for example, ExecuteSQLRecord 1.20.0.2.3.8.1-1, and name it ExecuteSQLRecord Impala.  You can use any that use JDBC connections such as
-
-
-![add](https://raw.githubusercontent.com/tspannhw/FLaNK-DataFlows/main/jdbc/addprocessor.jpg)
 
 
 * ExecuteSQL
@@ -12,7 +13,9 @@ Add a processor to your page to read, for example, ExecuteSQLRecord 1.20.0.2.3.8
 * QueryDatabaseTableRecord
 
 
-![example](https://raw.githubusercontent.com/tspannhw/FLaNK-DataFlows/main/jdbc/exampleflow.jpg)
+![add](https://raw.githubusercontent.com/tspannhw/FLaNK-DataFlows/main/jdbc/addprocessor.jpg)
+
+
 
 
 #### Processor Settings
