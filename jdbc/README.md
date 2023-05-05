@@ -26,6 +26,12 @@ SELECT * FROM  `default`.tim_syslog_critical_archive
 
 ````
 
+Set all your parameters in the processor.
+
+![processor](https://github.com/tspannhw/FLaNK-DataFlows/blob/main/jdbc/querysettings.jpg)
+
+
+
 #### Services Settings
 
 First add a connection service for your processor.
@@ -35,6 +41,11 @@ First add a connection service for your processor.
 Now you can add parameters to your service.
 
 ![service](https://raw.githubusercontent.com/tspannhw/FLaNK-DataFlows/main/jdbc/dbconnectionpool.jpg)
+
+
+Set all the following parameters.
+
+![set](https://raw.githubusercontent.com/tspannhw/FLaNK-DataFlows/main/jdbc/dbconnectionsettings.jpg)
 
 * Service Name: DBCPConnectionPool Impala Iceberg
 
@@ -54,9 +65,12 @@ com.cloudera.impala.jdbc.Driver
 
 ````
 #{Database Driver Location}    
+`````
 
 Set parameter and then upload driver
-````
+
+![upload](https://raw.githubusercontent.com/tspannhw/FLaNK-DataFlows/main/jdbc/uploaddriver.jpg)
+
 
 * Database User:                 
 
@@ -69,3 +83,8 @@ Set parameter and then upload driver
 ````
 #{CDP Workload User Password} 
 ````
+
+Detailed Parameters
+
+![parm](https://raw.githubusercontent.com/tspannhw/FLaNK-DataFlows/main/jdbc/properties.jpg)
+
