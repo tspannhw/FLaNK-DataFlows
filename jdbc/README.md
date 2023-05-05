@@ -91,3 +91,11 @@ Detailed Parameters
 
 ![parm](https://raw.githubusercontent.com/tspannhw/FLaNK-DataFlows/main/jdbc/properties.jpg)
 
+
+
+
+#### References
+
+https://docs.cloudera.com/cdw-runtime/1.5.0/iceberg-how-to/topics/iceberg-data-types.html
+
+
